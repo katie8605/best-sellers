@@ -1,6 +1,6 @@
 <h1 align="center">The New Your Times Best Sellers</h1>
 <p align="center">
- Displays the lastest list of The New Your Times Best Sellers using The New Your Times APIs.
+ Displays the latest list of The New Your Times Best Sellers using The New Your Times APIs.
 </p>
 
 ## About

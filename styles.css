@@ -1,0 +1,82 @@
+.section-width {
+  width: 1200px;
+}
+
+.darker-blue-font {
+  color: #316d79;
+}
+
+.book-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: contain;
+}
+
+.light-blue-font {
+  color: rgba(92, 204, 227, 1);
+}
+
+.form {
+  position: relative;
+}
+
+.form .fa-calendar-day {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  color: #9ca3af;
+}
+
+.form span {
+  position: absolute;
+  right: 27px;
+  top: 13px;
+  padding: 2px;
+  border-left: 1px solid #d1d5db;
+}
+
+.left-pan {
+  padding-left: 7px;
+  cursor: pointer;
+}
+
+.left-pan i {
+  padding-left: 14px;
+}
+
+.form-input {
+  height: 55px;
+  text-indent: 43px;
+  border-radius: 10px;
+}
+
+.form-input:focus {
+  box-shadow: none;
+  border: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 70px;
+  background: linear-gradient(
+    90deg,
+    rgba(92, 204, 227, 1) 0%,
+    rgba(246, 150, 218, 1) 100%
+  );
+}
+
+.highlight-link {
+  color: #b53790;
+  background-image: linear-gradient(
+    to left,
+    rgba(246, 150, 218, 1) 50%,
+    #fff 10%
+  );
+  background-size: 200% auto;
+  transition: 0.5s ease-out;
+}
+
+.highlight-link:hover {
+  background-position: -99.99% 0;
+  color: black;
+}
